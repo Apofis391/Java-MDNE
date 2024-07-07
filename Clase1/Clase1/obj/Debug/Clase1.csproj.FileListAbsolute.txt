@@ -1,0 +1,7 @@
+C:\Users\alumnos.ALUMNOSUIO\source\repos\Clase1\Clase1\bin\Debug\Clase1.exe.config
+C:\Users\alumnos.ALUMNOSUIO\source\repos\Clase1\Clase1\bin\Debug\Clase1.exe
+C:\Users\alumnos.ALUMNOSUIO\source\repos\Clase1\Clase1\bin\Debug\Clase1.pdb
+C:\Users\alumnos.ALUMNOSUIO\source\repos\Clase1\Clase1\obj\Debug\Clase1.csprojResolveAssemblyReference.cache
+C:\Users\alumnos.ALUMNOSUIO\source\repos\Clase1\Clase1\obj\Debug\Clase1.csproj.CoreCompileInputs.cache
+C:\Users\alumnos.ALUMNOSUIO\source\repos\Clase1\Clase1\obj\Debug\Clase1.exe
+C:\Users\alumnos.ALUMNOSUIO\source\repos\Clase1\Clase1\obj\Debug\Clase1.pdb
